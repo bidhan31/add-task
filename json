@@ -1,0 +1,6 @@
+{
+    "id": "unique_id_string",
+    "name": "Task name",
+    "description": "Task description",
+    "completed": false
+}
